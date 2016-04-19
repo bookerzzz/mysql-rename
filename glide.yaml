@@ -1,0 +1,7 @@
+package: github.com/bookerzzz/mysql-rename
+import:
+- package: github.com/jessevdk/go-flags
+  ref:     4047bd797dd935ae2b557a79cc43f223066c9659
+- package: github.com/go-sql-driver/mysql
+  ref:     1421caf44f6464fd2ee8de694c7508ee13f92964
+
